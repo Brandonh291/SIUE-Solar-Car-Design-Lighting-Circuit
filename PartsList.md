@@ -11,3 +11,4 @@ Parts List:
   1 - 10 nF capacitor
   1 - NE555N Timer Chip
   1 - Arduino Nano
+
