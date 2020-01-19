@@ -41,3 +41,18 @@ o I want input protection on the switches to make it ESD resistant. A google sea
 · Hardware and I/O
 
 o It’d be nice if the I/O was confined to a single connector like a D-sub connector or something similar to confine all the connections to a single plug.
+
+
+Parts List
+  * 14 - 3.5mm 2 Pin Screw Terminal Block
+  * 7 - 10k Resistors
+  * 7 - 2k Resistors
+  * 1 - 1M Resistor
+  * 1 - Arduino Nano Microcontroller
+  * 7 - RFP30N06LE Mosfets
+  * 2 - 74HC08N Quad 2 Input AND IC
+  * 1 - 74LS04N Hex Inverter IC
+  * 1 - 74HC32N Quad 2 Input OR IC
+  * 1 - NE555N Timer
+  * 1 - 470nF Capacitor
+  * 1 - 10nF Capacitor
